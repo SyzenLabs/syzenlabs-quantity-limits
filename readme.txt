@@ -2,9 +2,9 @@
 Contributors: syzenlabs
 Tags: minmax, quantity, price, product restrictions
 Requires at least: 6.4
-Tested up to: 7.0
+Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -145,6 +145,9 @@ The plugin is open source and contributions are welcome. Please submit pull requ
 2. Advanced Conditions
 
 == Changelog ==
+
+= 1.0.3 - 18 Oct 2026 =
+* New: WordPress 7.1 Compatibility.
 
 = 1.0.2 - 27 Jun 2026 =
 * Renamed plugin display title to be more distinctive and reviewer-friendly.
